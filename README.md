@@ -1,9 +1,4 @@
----
-title: How to Debug JavaScript(Cordova) and TypeScript with VSCode
-permalink: /
----
-
-#
+# WIP
 
 ## Instruction
 
